@@ -1,7 +1,5 @@
 # Institutions
-Adherence to public institutions that foster cooperation
-Arunas L. Radzvilavicius*, Taylor A. Kessinger*, and Joshua B. Plotkin
-(*equal contribution)
+Adherence to public institutions that foster cooperation, by Arunas L. Radzvilavicius, Taylor A. Kessinger, and Joshua B. Plotkin
 
 # Overview
 All code for this project is written for Julia 1.4.0.
