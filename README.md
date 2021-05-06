@@ -25,5 +25,4 @@ To generate supplementary figure 14, run src/parallel_fixation_adherents.jl (out
 
 Finally, to generate supplementary figures 3-6, run src/parallel_fixation_multitype.jl (output saved as output/fixation_paper_multitype_final.jl) followed by plt/plt_fixation_multitype.jl.
 
-Questions can be directed to tkess@sas.upenn.edu.
-One may also check the Git repo at github.com/tkessinger/institutions.
+
